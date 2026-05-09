@@ -1,0 +1,10 @@
+01:37:47 **** Incremental Build of configuration Debug for project Encode4wheels ****
+make -j16 all 
+arm-none-eabi-size  Encode4wheels.elf 
+   text	   data	    bss	    dec	    hex	filename
+  16036	    104	   2296	  18436	   4804	Encode4wheels.elf
+Finished building: default.size.stdout
+ 
+
+01:37:48 Build Finished. 0 errors, 0 warnings. (took 322ms)
+

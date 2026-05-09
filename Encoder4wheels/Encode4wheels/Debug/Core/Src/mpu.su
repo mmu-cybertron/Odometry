@@ -1,0 +1,4 @@
+../Core/Src/mpu.c:38:19:MPU6050_Init	32	static
+../Core/Src/mpu.c:96:7:MPU6050_GYRO_READ	32	static
+../Core/Src/mpu.c:121:7:MPU6050_Get_GyroZ_Rad	4	static
+../Core/Src/mpu.c:127:7:MPU6050_Get_GyroZ_Deg	4	static
